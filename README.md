@@ -40,6 +40,11 @@ The reading and video resources in this course are mostly for getting an overvie
 
 <summary id = "week1"><b>Week 33</b></summary>
 
+Lecture 
+- [Lecture 1 - intro to AI][lec1_introAI]
+
+[lec1_introAI]: https://github.com/kokchun/Intro-till-AI/blob/master/Lectures/Lecture%201%20-%20Intro%20to%20AI.pdf
+
 Videos :video_camera:
 
 - [AI video intro][ai_vid]
@@ -71,6 +76,11 @@ Articles :newspaper:
 <details open>
 
 <summary id = "week2"><b >Week 34</b></summary>
+
+Lecture
+- [Lecture 2 - AI history][lec2_AI_history]  
+
+[lec2_AI_history]: https://github.com/kokchun/Intro-till-AI/blob/master/Lectures/Lecture%202%20-%20Intro%20till%20AI%20-%20history.pdf
 
 Articles :newspaper:
 
